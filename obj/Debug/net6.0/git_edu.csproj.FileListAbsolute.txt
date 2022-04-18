@@ -1,0 +1,15 @@
+/home/smile/Documents/git_edu/bin/Debug/net6.0/git_edu
+/home/smile/Documents/git_edu/bin/Debug/net6.0/git_edu.deps.json
+/home/smile/Documents/git_edu/bin/Debug/net6.0/git_edu.runtimeconfig.json
+/home/smile/Documents/git_edu/bin/Debug/net6.0/git_edu.dll
+/home/smile/Documents/git_edu/bin/Debug/net6.0/git_edu.pdb
+/home/smile/Documents/git_edu/obj/Debug/net6.0/git_edu.csproj.AssemblyReference.cache
+/home/smile/Documents/git_edu/obj/Debug/net6.0/git_edu.GeneratedMSBuildEditorConfig.editorconfig
+/home/smile/Documents/git_edu/obj/Debug/net6.0/git_edu.AssemblyInfoInputs.cache
+/home/smile/Documents/git_edu/obj/Debug/net6.0/git_edu.AssemblyInfo.cs
+/home/smile/Documents/git_edu/obj/Debug/net6.0/git_edu.csproj.CoreCompileInputs.cache
+/home/smile/Documents/git_edu/obj/Debug/net6.0/git_edu.dll
+/home/smile/Documents/git_edu/obj/Debug/net6.0/refint/git_edu.dll
+/home/smile/Documents/git_edu/obj/Debug/net6.0/git_edu.pdb
+/home/smile/Documents/git_edu/obj/Debug/net6.0/git_edu.genruntimeconfig.cache
+/home/smile/Documents/git_edu/obj/Debug/net6.0/ref/git_edu.dll
